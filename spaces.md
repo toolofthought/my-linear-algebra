@@ -14,6 +14,7 @@
 ![](http://i.imgur.com/oZoXRg4.jpg)
 ## dual spaces ##
 ![](http://i.imgur.com/TCMuHwR.jpg)
+![](http://i.imgur.com/KIv479f.jpg)
 ## braket notaion ##
 ## dual bases ##
 ## reflexivity ##

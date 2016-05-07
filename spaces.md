@@ -20,6 +20,10 @@
 ![](http://i.imgur.com/fqTuX4O.jpg)
 ![](http://i.imgur.com/fGkagVl.jpg)
 ![](http://i.imgur.com/rY6QPtS.jpg)
+
+linear functional의 계수 {a_1, a_2, ... , a_n} 를 잘 정의하면 너무나 당연하게 정의됩니다.
+
+ 
 ## braket notaion ##
 ## dual bases ##
 ## reflexivity ##

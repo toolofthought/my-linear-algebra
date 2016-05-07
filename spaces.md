@@ -18,6 +18,8 @@
 ![](http://i.imgur.com/3feKtKY.jpg)
 ![](http://i.imgur.com/PODIZ6A.jpg)
 ![](http://i.imgur.com/fqTuX4O.jpg)
+![](http://i.imgur.com/fGkagVl.jpg)
+![](http://i.imgur.com/rY6QPtS.jpg)
 ## braket notaion ##
 ## dual bases ##
 ## reflexivity ##

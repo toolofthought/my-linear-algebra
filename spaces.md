@@ -15,6 +15,9 @@
 ## dual spaces ##
 ![](http://i.imgur.com/TCMuHwR.jpg)
 ![](http://i.imgur.com/KIv479f.jpg)
+![](http://i.imgur.com/3feKtKY.jpg)
+![](http://i.imgur.com/PODIZ6A.jpg)
+![](http://i.imgur.com/fqTuX4O.jpg)
 ## braket notaion ##
 ## dual bases ##
 ## reflexivity ##

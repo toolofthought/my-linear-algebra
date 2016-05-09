@@ -27,6 +27,10 @@ linear functional의 계수 {a_1, a_2, ... , a_n} 를 잘 정의하면 너무나
 ## braket notaion ##
 ![](http://i.imgur.com/7rY4SnJ.jpg)
 ## dual bases ##
+![](http://i.imgur.com/DgUDzod.jpg)
+![](http://i.imgur.com/y8upSMZ.jpg)
+![](http://i.imgur.com/wvKQAR8.jpg)
+
 ## reflexivity ##
 ## annihilators ##
 ## direct sums ##

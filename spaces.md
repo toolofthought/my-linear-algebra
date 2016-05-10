@@ -31,8 +31,8 @@ linear functional의 계수 {a_1, a_2, ... , a_n} 를 잘 정의하면 너무나
 ![](http://i.imgur.com/y8upSMZ.jpg)
 linear functional이 같다는 말은 하나를 알아도 다른 경우의 함수값을 알 수 있다는 이야기입니다.(함수값이 동일하다는 뜻입니다)
 ![](http://i.imgur.com/wvKQAR8.jpg)
-![](http://i.imgur.com/mB6pggf.jpg)
-![](http://i.imgur.com/M4cyPck.jpg)
+![](http://i.imgur.com/1XIMzKn.jpg)
+![](http://i.imgur.com/35ICKOA.jpg)
 
 ## reflexivity ##
 ## annihilators ##
